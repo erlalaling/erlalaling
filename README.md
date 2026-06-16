@@ -1,6 +1,6 @@
-# Hi, I'm Erla 👋
+# Hola, I'm Erla 👋
 
-💻 BSIT Student at Bulacan State University
+💻 BSIT Student at Bulacan State University - Sarmiento Campus
 
 🚀 Aspiring Software Developer
 
